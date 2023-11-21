@@ -1,7 +1,3 @@
-# Copyright © 2023 Giovanni Squillero <giovanni.squillero@polito.it>
-# https://github.com/squillero/computational-intelligence
-# Free for personal or classroom use; see 'LICENSE.md' for details.
-
 from abc import abstractmethod
 
 class AbstractProblem:
